@@ -1,0 +1,5 @@
+Q1-C
+In both the train set and the test set, the data for k = 7 and any d exhibit relatively little error. Since test set sometimes displays greater error than tarin set, this may be one of the overfitting examples. With k=7 and d=4, the test set's minimum error (MAE) was found, with a value of 0.023.
+
+Q1D-
+The data clearly overfits with 20 data points because the minimum error is for k=7 and d=6, which is higher than the minimum error in the preceding case.
