@@ -1,0 +1,6 @@
+Q2C- Because the error was too low for greater dimensions on both the train set and test set, the error on the train set is 0.69 and 0.64, which is higher than the error from the previous phase.
+
+Q2D -The difference between the error on the train set and the test set—which grows to 0.80—clearly demonstrates overfitting with fewer data points.
+It displays larger inaccuracy when compared to the preceding section, with a higher dimension of the sin function accounting for the difference.
+
+Q2E- We can observe that the sin2(x) basis function is more effective at capturing the data points than the locally weighted linear regression. We may thus conclude that the data is distributed in a manner similar to the sin2(x) distribution.
